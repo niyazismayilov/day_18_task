@@ -1,16 +1,12 @@
-# day_3_tapsiriq
+# Final Proyekt
 
-Day 3 duzgun implementasiya
+Day 18 üçün task.
 
 ## Getting Started
+ 
+https://www.figma.com/design/tX1a04JOwC14FM5Qr3NmSr/My-portfolio-in-mobile-
+(Community)?node-id=0-1&t=6ssvFvp4mtVNeV9Y-0
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
